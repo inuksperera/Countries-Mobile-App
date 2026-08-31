@@ -1,15 +1,15 @@
 # Countries Mobile Game
 
-## An android mobile application for quizes related to country flags
+## An Android mobile application for quizzes related to country flags
 
-The project was made using Android Studio and Jetpack Compose with Kotlin. 
-There are 4 games in the application. They are,
+This project was developed using Android Studio, Kotlin, and Jetpack Compose. The application consists of four flag-based games, each designed to function flawlessly in both portrait and horizontal orientations. A timer can also be enabled or disabled based on the player's preference.
 
- * Guessing the country flag and selecting the country from the list provided
- * Guessing letters to reveal the name of a country based on its flag
- * Guess the correct flag out of three flags that is corresponding to the country name displayed
- * In the last level, there are three flags and a text box for each flag, where the user has to enter all three country names
-   corresponding to each flag to pass the round.
+The available games are:
+
+* Guess the Country: Identify the country represented by a flag by selecting the correct country name from a provided list.
+* Guess-Hints: Guess the letters to reveal the name of the country represented by the displayed flag.
+* Guess the Flag: Select the correct flag from three options based on the displayed country name.
+* Advanced Level: Identify all three countries represented by the displayed flags by entering their names into the corresponding text boxes.
 
 ![image](https://github.com/inuksperera/Countries-Mobile-App/assets/110172780/e170485d-e4d0-447a-9f8f-3c8cb227c07f)
 ![image](https://github.com/inuksperera/Countries-Mobile-App/assets/110172780/e36ced2f-964a-4e36-8bfa-c6cdde7bb1f0)
